@@ -32,7 +32,7 @@ year = {2021},
 ### About Me
 
 <p align="center">
-    <a href="https://www.atomasevic.com/cv-at.pdf"><img src="https://img.shields.io/badge/CV-005A2B.svg?style=flat-square&logo=read-the-docs&logoColor=white" height="25" width="145"/></a>
+    <a href="https://www.atomasevic.com/cv-at.pdf"><img src="https://img.shields.io/badge/CV-005A2B.svg?style=flat-square&logo=read-the-docs&logoColor=white" height="10" width="145"/></a>
     <br></br>
     <a href="https://scholar.google.com/citations?user=qQ6JDJ4AAAAJ"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4.svg?style=flat-square&logo=google-scholar&logoColor=white" height="25" width="145"/></a>
     <br></br>
