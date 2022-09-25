@@ -7,22 +7,17 @@
 
 ### Recent Research Articles
 
-- [**Sustainability of {{Stack Exchange Q}}\&{{A}} Communities: The Role of Trust**](https://arxiv.org/abs/2205.07745)<details><summary>BibTeX</summary><pre>
-
+- [**Sustainability of Stack Exchange Q&A Communities: The Role of Trust**](https://arxiv.org/abs/2205.07745)<details><summary>BibTeX</summary><pre>
 @misc{vranic2022SustainabilityStackExchange2022,
   title = {Sustainability of {{Stack Exchange Q}}\&{{A}} Communities: The Role of Trust},
-  shorttitle = {Sustainability of {{Stack Exchange Q}}\textbackslash\&{{A}} Communities},
   author = {Vrani{\'c}, Ana and Toma{\v s}evi{\'c}, Aleksandar and Alori{\'c}, Aleksandra and Dankulov, Marija Mitrovi{\'c}},
   year = {2022},
   number = {arXiv:2205.07745},
-  eprint = {2205.07745},
-  eprinttype = {arxiv},
   primaryclass = {physics},
   publisher = {{arXiv}},
   doi = {10.48550/arXiv.2205.07745},
   keywords = {Computer Science - Social and Information Networks,Physics - Physics and Society}
-}
-</pre></details>
+}</pre></details>
 
 - [**Non-intrusive reduced-order models for parametric partial differential equations via data-driven operator inference**](https://arxiv.org/abs/2110.07653)<details><summary>BibTeX</summary><pre>
 @article{MKW2021pOpInf,
