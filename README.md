@@ -37,7 +37,7 @@ year = {2021},
     <a href="https://scholar.google.com/citations?user=nPTApsYAAAAJ&hl=en"><img src="https://img.shields.io/badge/4285F4.svg?style=flat-square&logo=google-scholar&logoColor=white" height="25" width="145"/></a>
     <br></br>
 
-    <a href="mailto:atomashevic@ff.uns.ac.rs"><img src="https://img.shields.io/badge/D14836.svg?style=flat-square&logo=gmail&logoColor=white" height="25" width="145"/></a>
+    <a href="mailto:atomashevic@ff.uns.ac.rs"><img src="https://img.shields.io/badge/Email-D14836.svg?style=flat-square&logo=gmail&logoColor=white" height="25" width="145"/></a>
 </p>
 
 </td><td align="center" valign="top" width="190">
