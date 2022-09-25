@@ -20,7 +20,6 @@
 }</pre></details>
 
 - [**Measuring the influence of beliefs in belief networks**](https://arxiv.org/abs/2110.09154)<details><summary>BibTeX</summary><pre>
-
 @article{tomasevic2021measuring,
   title = {Measuring the Influence of Beliefs in Belief Networks},
   author = {Toma{\v s}evi{\'c}, Aleksandar},
