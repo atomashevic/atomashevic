@@ -19,13 +19,18 @@
   keywords = {Computer Science - Social and Information Networks,Physics - Physics and Society}
 }</pre></details>
 
-- [**Non-intrusive reduced-order models for parametric partial differential equations via data-driven operator inference**](https://arxiv.org/abs/2110.07653)<details><summary>BibTeX</summary><pre>
-@article{MKW2021pOpInf,
-author = {Shane A. McQuarrie and Parisa Khodabakhshi and Karen E. Willcox},
-title = {Non-intrusive reduced-order models for parametric partial differential equations via data-driven operator inference},
-journal = {arXiv preprint arXiv:2110.07753},
-year = {2021},
-}</pre><details>
+- [**Measuring the influence of beliefs in belief networks**](https://arxiv.org/abs/2110.09154)<details><summary>BibTeX</summary><pre>
+
+@article{tomasevic2021measuring,
+  title = {Measuring the Influence of Beliefs in Belief Networks},
+  author = {Toma{\v s}evi{\'c}, Aleksandar},
+  year = {2021},
+  journal = {arXiv:2110.09154 [physics, stat]},
+  eprint = {2110.09154},
+  eprinttype = {arxiv},
+  primaryclass = {physics, stat},
+  keywords = {Computer Science - Social and Information Networks,Physics - Physics and Society,Statistics - Applications}
+} </pre><details>
 
 </td><td align="center" valign="top" width="180">
 
