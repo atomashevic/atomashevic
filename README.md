@@ -34,14 +34,14 @@ year = {2021},
 <p align="center">
     <a href="https://www.atomasevic.com/cv-at.pdf"><img src="https://img.shields.io/badge/CV-005A2B.svg?style=flat-square&logo=read-the-docs&logoColor=white" height="25" width="145"/></a>
     <br></br>
-    <a href="https://scholar.google.com/citations?user=nPTApsYAAAAJ&hl=en"><img src="https://img.shields.io/badge/4285F4.svg?style=flat-square&logo=google-scholar&logoColor=white" height="25" width="145"/></a>
+    <a href="https://scholar.google.com/citations?user=qQ6JDJ4AAAAJ"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4.svg?style=flat-square&logo=google-scholar&logoColor=white" height="25" width="145"/></a>
     <br></br>
-
-    <a href="mailto:atomashevic@ff.uns.ac.rs"><img src="https://img.shields.io/badge/Email-D14836.svg?style=flat-square&logo=gmail&logoColor=white" height="25" width="145"/></a>
+    <a href="https://www.linkedin.com/in/shane-mcquarrie"><img src="https://img.shields.io/badge/LinkedIn%20Profile-0077B5.svg?style=flat-square&logo=linkedin&logoColor=white" height="25" width="145"/></a>
+    <br></br>
+    <a href="mailto:shanemcq@utexas.edu"><img src="https://img.shields.io/badge/Contact%20(Email)-D14836.svg?style=flat-square&logo=gmail&logoColor=white" height="25" width="145"/></a>
 </p>
 
 </td><td align="center" valign="top" width="190">
-
 ### Tools I Use
 
 <p align="center">
