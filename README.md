@@ -42,7 +42,7 @@
     <br></br>
     <a href="mailto:atomashevic@ff.uns.ac.rs"><img src="https://img.shields.io/badge/Contact%20(Email)-D14836.svg?style=flat-square&logo=gmail&logoColor=white" height="25" width="145"/></a>
 </p>
-
+<a rel="me" href="https://mathstodon.xyz/@atomasevic">Mastodon</a>
 </td><td align="center" valign="top" width="190">
   
 ### Tools I Use
