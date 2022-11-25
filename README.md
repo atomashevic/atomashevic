@@ -2,6 +2,7 @@
 - :man_teacher: I’m an Assistant Professor at University of Novi Sad.
 - 🔬 I'm doing research in computational social science and network science.
 - :earth_africa: More details and contact info here: [www.atomasevic.com](www.atomasevic.com).
+- I'm currently on <a rel="me" href="https://mathstodon.xyz/@atomasevic">Mastodon</a>: `mathstodon.xyz/@atomasevic`
 
 <table cellspacing="0" cellpadding="0"><tr><td valign="top">
 
@@ -42,7 +43,7 @@
     <br></br>
     <a href="mailto:atomashevic@ff.uns.ac.rs"><img src="https://img.shields.io/badge/Contact%20(Email)-D14836.svg?style=flat-square&logo=gmail&logoColor=white" height="25" width="145"/></a>
 </p>
-<a rel="me" href="https://mathstodon.xyz/@atomasevic">Mastodon</a>
+
 </td><td align="center" valign="top" width="190">
   
 ### Tools I Use
