@@ -2,23 +2,28 @@
 - :man_teacher: I’m an Assistant Professor at University of Novi Sad.
 - 🔬 I'm doing research in computational social science and network science.
 - :earth_africa: More details and contact info here: [www.atomasevic.com](www.atomasevic.com).
-- I'm currently on <a rel="me" href="https://mathstodon.xyz/@atomasevic">Mastodon</a> : `mathstodon.xyz/@atomasevic`
+- I'm currently on <a rel="me" href="https://mathstodon.xyz/@atomasevic">Mastodon</a>: `mathstodon.xyz/@atomasevic`
 
 <table cellspacing="0" cellpadding="0"><tr><td valign="top">
 
 ### Recent Research Articles
 
-- [**Sustainability of Stack Exchange Q&A Communities: The Role of Trust**](https://arxiv.org/abs/2205.07745)<details><summary>BibTeX</summary><pre>
-@misc{vranic2022SustainabilityStackExchange2022,
+- [**Sustainability of Stack Exchange Q&A communities: the role of trust**](https://epjdatascience.springeropen.com/articles/10.1140/epjds/s13688-023-00381-x)<details><summary>BibTeX</summary><pre>
+@article{vranic2023Sustainability,
   title = {Sustainability of {{Stack Exchange Q}}\&{{A}} Communities: The Role of Trust},
-  author = {Vrani{\'c}, Ana and Toma{\v s}evi{\'c}, Aleksandar and Alori{\'c}, Aleksandra and Dankulov, Marija Mitrovi{\'c}},
-  year = {2022},
-  number = {arXiv:2205.07745},
-  primaryclass = {physics},
-  publisher = {{arXiv}},
-  doi = {10.48550/arXiv.2205.07745},
-  keywords = {Computer Science - Social and Information Networks,Physics - Physics and Society}
-}</pre></details>
+  shorttitle = {Sustainability of {{Stack Exchange Q}}\&{{A}} Communities},
+  author = {Vrani{\'c}, Ana and Toma{\v s}evi{\'c}, Aleksandar and Alori{\'c}, Aleksandra and Mitrovi{\'c} Dankulov, Marija},
+  year = {2023},
+  journal = {EPJ Data Science},
+  volume = {12},
+  number = {1},
+  pages = {1--24},
+  publisher = {{SpringerOpen}},
+  doi = {10.1140/epjds/s13688-023-00381-x},
+  abstract = {Knowledge-sharing communities are fundamental elements of a knowledge-based society. Understanding how different factors influence their sustainability is of crucial importance. We explore the role of the social network structure and social trust in their sustainability. We analyze the early evolution of social networks in four pairs of active and closed Stack Exchange communities on topics of physics, astronomy, economics, and literature and use a dynamical reputation model to quantify the evolution of social trust in them. In addition, we study the evolution of two active communities on mathematics topics and two closed communities about startups and compare them with our main results. Active communities have higher local cohesiveness and develop stable, better-connected, trustworthy cores. The early emergence of a stable and trustworthy core may be crucial for sustainable knowledge-sharing communities.},
+  copyright = {2023 The Author(s)}
+}
+</pre></details>
 
 - [**Measuring the influence of beliefs in belief networks**](https://arxiv.org/abs/2110.09154)<details><summary>BibTeX</summary><pre>
 @article{tomasevic2021measuring,
