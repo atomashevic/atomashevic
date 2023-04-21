@@ -7,6 +7,23 @@
 <table cellspacing="0" cellpadding="0"><tr><td valign="top">
 
 ### Recent Research Articles
+  
+- [**The Face of Populism: Examining Differences in Facial Emotional Expressions of Political Leaders Using Machine Learning**](https://arxiv.org/abs/2304.09914)<details><summary>BibTeX</summary><pre>
+@misc{major2023Face,
+  title = {The {{Face}} of {{Populism}}: {{Examining Differences}} in {{Facial Emotional Expressions}} of {{Political Leaders Using Machine Learning}}},
+  shorttitle = {The {{Face}} of {{Populism}}},
+  author = {Major, Sara and Toma{\v s}evi{\'c}, Aleksandar},
+  year = {2023},
+  number = {arXiv:2304.09914},
+  eprint = {2304.09914},
+  primaryclass = {physics},
+  publisher = {{arXiv}},
+  urldate = {2023-04-21},
+  archiveprefix = {arxiv},
+  copyright = {All rights reserved},
+  keywords = {Computer Science - Computer Vision and Pattern Recognition,Computer Science - Computers and Society,Computer Science - Machine Learning,Computer Science - Social and Information Networks,J.4,Physics - Physics and Society}
+}
+</pre><details>
 
 - [**Sustainability of Stack Exchange Q&A communities: the role of trust**](https://epjdatascience.springeropen.com/articles/10.1140/epjds/s13688-023-00381-x)<details><summary>BibTeX</summary><pre>
 @article{vranic2023Sustainability,
@@ -25,17 +42,7 @@
 }
 </pre></details>
 
-- [**Measuring the influence of beliefs in belief networks**](https://arxiv.org/abs/2110.09154)<details><summary>BibTeX</summary><pre>
-@article{tomasevic2021measuring,
-  title = {Measuring the Influence of Beliefs in Belief Networks},
-  author = {Toma{\v s}evi{\'c}, Aleksandar},
-  year = {2021},
-  journal = {arXiv:2110.09154 [physics, stat]},
-  eprint = {2110.09154},
-  eprinttype = {arxiv},
-  primaryclass = {physics, stat},
-  keywords = {Computer Science - Social and Information Networks,Physics - Physics and Society,Statistics - Applications}
-} </pre><details>
+
 
 </td><td align="center" valign="top" width="180">
 
