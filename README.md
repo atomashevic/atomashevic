@@ -2,7 +2,7 @@
 - :man_teacher: I’m an Assistant Professor at University of Novi Sad.
 - 🔬 I'm doing research in computational social science and network science.
 - :earth_africa: More details and contact info here: [www.atomasevic.com](www.atomasevic.com).
-- I'm currently on <a rel="me" href="https://mastodon.social/@atomasevic">Mastodon</a>: `@atomasevic@mastodon.social`
+- I'm currently on <a rel="me" href="https://mastodon.social/@atomasevic">Mastodon</a> : `@atomasevic@mastodon.social`
 
 <table cellspacing="0" cellpadding="0"><tr><td valign="top">
 
