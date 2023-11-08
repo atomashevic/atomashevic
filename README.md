@@ -3,7 +3,6 @@
 - :earth_africa: More details and contact info here: [www.atomasevic.com](www.atomasevic.com).
 - I'm currently on <a rel="me" href="https://mastodon.social/@atomasevic">Mastodon</a> : `@atomasevic@mastodon.social`
 
-<table cellspacing="0" cellpadding="0"><tr><td valign="top">
 
 ### Recent Research Articles
   
@@ -41,6 +40,3 @@
 }
 </pre></details>
 
-
-
-</td><td align="center" valign="top" width="180">
