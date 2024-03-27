@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @atomashevic. I’m a Reseacher at University of Novi Sad.
 - 🔬 I'm doing research in data science and computational social science.
 - :earth_africa: More details and contact info here: [www.atomasevic.com](www.atomasevic.com).
+- You can find me on <a rel="me" href="https://mathstodon.xyz/@atomasevic">Mastodon</a> and [X](https://twitter.com/atomasevic)
 
 ### Recent Research Articles
   
